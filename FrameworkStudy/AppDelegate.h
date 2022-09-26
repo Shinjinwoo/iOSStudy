@@ -18,7 +18,7 @@ NSString *docPath(void);
 
 {
     UITableView *taskTable;
-    UITextField *textField;
+    UITextField *taskField;
     UIButton *insertButton;
     
     NSMutableArray *tasks;
